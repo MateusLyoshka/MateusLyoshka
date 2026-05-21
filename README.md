@@ -2,7 +2,16 @@
 
 ###
 
-<p align="left">🎮 I'm a passionate and creative game developer with a strong interest in building interactive experiences.<br>🎓 Since 2022, I've been studying Computer Science at the Federal University of Technology – Paraná (UTFPR).<br>🛠️ I have experience developing games with Godot, SGDK (for the Sega Mega Drive), and currently focus on Unity.<br>💡 I enjoy combining technical knowledge with creativity to bring ideas to life through code. I also have a background in music and drawing, which enriches my approach to game development.<br>🚀 I'm always looking to learn new technologies and contribute to meaningful projects.</p>
+<p align="left">💻 Software Engineer focused on Full-Stack development, with hands-on experience building RESTful APIs and web
+  applications using <strong>Java (Spring Boot)</strong> and <strong>JavaScript/TypeScript (Node.js, React,
+  Next.js)</strong>.<br>
+  🎓 Computer Science student at UTFPR – Federal University of Technology – Paraná (2022–2026).<br>
+  🛠️ Comfortable working across the stack — from database modeling with PostgreSQL and migrations with Flyway, to
+  building interfaces with React and Tailwind CSS.<br>
+  🎮 Game development enthusiast: I've shipped projects in Godot and explored low-level programming with SGDK for the
+  Sega Mega Drive. My background in music and drawing shapes the way I think about user experience and design.<br>
+  🚀 Always learning — currently deepening my knowledge in distributed systems, backend architecture, and software
+  quality.</p>
 
 ###
 
